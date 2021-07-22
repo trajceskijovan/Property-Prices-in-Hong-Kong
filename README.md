@@ -7,7 +7,13 @@ The hw.csv file contains Property Transaction price of Kowloon between Nov 2014 
 # Jupiter notebook:
 https://github.com/trajceskijovan/Property-Prices-in-Hong-Kong/blob/main/Property%20Transaction%20Prices%20in%20Hong%20Kong.ipynb
 
-
+# Task:
+1. Import and clean data
+2. Merge datasets
+3. Data Aggregation
+4. Data Vizialization
+5. Modeling
+6. Data Insights
 
 
 ![](1.png)
