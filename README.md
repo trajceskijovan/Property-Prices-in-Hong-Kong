@@ -16,29 +16,29 @@ https://github.com/trajceskijovan/Property-Prices-in-Hong-Kong/blob/main/Propert
 6. Data Insights
 
 # Data Insight Samples:
-![](1.png)
+![](samples/1.png)
 
-![](2.png)
+![](samples/2.png)
 
-![](3.png)
+![](samples/3.png)
 
-![](4.png)
+![](samples/4.png)
 
-![](5.png)
+![](samples/5.png)
 
-![](6.png)
+![](samples/6.png)
 
-![](7.png)
+![](samples/7.png)
 
-![](8.png)
+![](samples/8.png)
 
-![](9.png)
+![](samples/9.png)
 
-![](10.png)
+![](samples/10.png)
 
-![](11.png)
+![](samples/11.png)
 
-![](12.png)
+![](samples/12.png)
 
-![](13.png)
+![](samples/13.png)
 
