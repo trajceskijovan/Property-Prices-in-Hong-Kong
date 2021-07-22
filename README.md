@@ -29,5 +29,4 @@ https://github.com/trajceskijovan/Property-Prices-in-Hong-Kong/blob/main/Propert
 ![](11.png)
 ![](12.png)
 ![](13.png)
-![](14.png)
-![](15.png)
+
