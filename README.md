@@ -11,7 +11,7 @@ https://github.com/trajceskijovan/Property-Prices-in-Hong-Kong/blob/main/Propert
 1. Import and clean data
 2. Merge datasets
 3. Data Aggregation
-4. Data Vizialization
+4. Data Vizualization
 5. Modeling
 6. Data Insights
 
