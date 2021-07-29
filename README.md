@@ -15,7 +15,7 @@ https://github.com/trajceskijovan/Property-Prices-in-Hong-Kong/blob/main/Propert
 5. Modeling
 6. Data Insights
 
-# Data Insight Samples:
+# Insight samples:
 ![](samples/1.png)
 
 ![](samples/2.png)
